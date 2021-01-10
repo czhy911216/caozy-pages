@@ -1,6 +1,6 @@
 {
-  "name": "caozy-pages-suncn-qd",
-  "version": "0.1.0",
+  "name": "caozy-pages",
+  "version": "1.0.0",
   "description": "static web app workflow",
   "keywords": [
     "caozy-pages",
@@ -17,6 +17,7 @@
   ],
   "main": "lib/index.js",
   "bin": "bin/caozy-pages.js",
+  "author": "caozy",
   "directories": {
     "lib": "lib"
   },
